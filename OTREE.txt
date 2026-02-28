@@ -1,0 +1,929 @@
+O	M175, CTS647, CTS874/M1530, CTS1182/M1740, CTS1658/M1746, CTS1853/M1747, CTS2340, CTS2419/M1748, CTS3283/M1749, CTS3771/M1750, CTS5118/M1752, CTS5493/M1753, CTS7498/M1758, CTS7553/M1759, CTS8384/M1762, CTS8746/M1763, CTS9039/M1766, CTS9544/M1767, CTS9577, CTS9602/M1768, CTS10784/M1779, CTS10995/M1780, CTS11955/M1781, F14/M1738, F45/M1739, F84/M1741, F137/M1743, F171/M1573, F175, F182/M1744, F282/M1359, F315/M1751, F355/M1754, F371/M1756, F380/M1757/S27659, F452/M1761, F478/M1764, F494/M1765, F537/M1769, F540, F546/M1770, F600/M1777, F614/M1778, F668/M1782, FGC12433, FGC12434, FGC12436, L1361/M1771, M1742, M1745, M1772, M1773, M1774, M1775, M1776, P186, P188, P191, P196, Z16962, Z16966																							
+	O1	F265/M1354, CTS2866, F75/M1297, F429/M1415, F465/M1422																						
+		O1a	M119, CTS31, F589/Page20, L246, L466																					
+			O1a1	B384/Z23193																				
+				O1a1a	M307.1/P203.1, CTS3422, CTS4351, CTS5059,CTS6864, CTS7015, CTS8229, CTS8875, CTS8934, CTS9321, CTS11688, F31, F54, F89, F303, F333, L83																			
+					O1a1a1	F446, CTS4588, F560, FGC15381/K620/Z23389, K613/Z23387, K619/Z23388																		
+						O1a1a1a	F140, CTS611, CTS3089, CTS3265, CTS3269,CTS11270, F157, F343, F424, F518, F571, FGC15382/Z23466, FGC15391/Y14275/Z23470, FGC15383/K625/Z23474, V68.2, Z23457																	
+							O1a1a1a1	F78, CTS1711, CTS2268, CTS3758, CTS4478, CTS9282, CTS10963, CTS11692, F168, F206, FGC15386/Z23467, FGC15388/K642, FGC15394/K618/Z23468, K614/Z23459, Y23446, Z23458, Z23471																
+								O1a1a1a1a	F81, CTS1329, CTS3285, CTS4910, CTS5709, FGC15392/Y14265/Z23469, FGC15393/Z23465															
+									O1a1a1a1a1	CTS2458														
+										O1a1a1a1a1a	F533													
+											O1a1a1a1a1a1	F492, CTS2498, CTS2594, CTS4206,CTS5075, CTS11784, F619, K629/Z23478												
+												O1a1a1a1a1a1a	F656, Z23481											
+													O1a1a1a1a1a1a1	A12440 										
+														O1a1a1a1a1a1a1a	A12439									
+															O1a1a1a1a1a1a1a1	MF20192								
+															O1a1a1a1a1a1a1a2	MF6492, MF6513, Y156896								
+														O1a1a1a1a1a1a1b	MF6062, MF6063									
+														O1a1a1a1a1a1a1c	MF6067									
+															O1a1a1a1a1a1a1c1	MF6065								
+																O1a1a1a1a1a1a1c1a	MF6277							
+														O1a1a1a1a1a1a1d	MF6409, MF6481									
+														O1a1a1a1a1a1a1e	A23676. MF20133, MF20371, MF20521									
+													O1a1a1a1a1a1a2	A14788, A14789  										
+													O1a1a1a1a1a1a3	F65, F285, F469, Y137197, Y137212, Y137235, Y137236, Y137242										
+														O1a1a1a1a1a1a3a	Y137223									
+													O1a1a1a1a1a1a4	MF1069										
+														O1a1a1a1a1a1a4a	MF1068, MF1070									
+													O1a1a1a1a1a1a5	Z23482, Z23484, Z23485, Z23486, Z23487, Z23488, Z23489										
+													O1a1a1a1a1a1a6	MF2651										
+													O1a1a1a1a1a1a7	Y137090										
+														O1a1a1a1a1a1a7a	Y137081, Y137084, Y137111									
+													O1a1a1a1a1a1a8	MF6069, MF6070, MF6071										
+													O1a1a1a1a1a1a9	MF6073, MF6075, MF6076, MF6077, MF6078, MF6079										
+													O1a1a1a1a1a1a10	F18460, F18841										
+														O1a1a1a1a1a1a10a	F19365, F20579, F23191, MF5078									
+													O1a1a1a1a1a1a11	ACT1077/MF14390, ACT1456/MF15465										
+													O1a1a1a1a1a1a12	ACT3892, ACT5224, MF19593										
+													O1a1a1a1a1a1a13	ACT6705/MF41330, ACT6715/MF41673, ACT6999/MF50853										
+														O1a1a1a1a1a1a13a	ACT6493/Y161872, ACT6538/Y161858, ACT6800/Y161897, ACT6807/Y161895, ACT7006/Y162011, ACT7096/Y161945									
+												O1a1a1a1a1a1b	FGC66168, Z23505											
+													O1a1a1a1a1a1b1	CTS11553, Z23494, Z23496, Z23503  										
+														O1a1a1a1a1a1b1a	MF14611, MF14667, MF15039, MF16111									
+															O1a1a1a1a1a1b1a1	MF14730								
+															O1a1a1a1a1a1b1a2	MF14734^^								
+														O1a1a1a1a1a1b1b	MF15219, MF15628, MF15891, MF16581									
+															O1a1a1a1a1a1b1b1	MF16753								
+																O1a1a1a1a1a1b1b1a	MF15176							
+																O1a1a1a1a1a1b1b1b	MF14234, MF14288, MF14602, MF14643, MF15150, MF15184, MF15431, MF15886							
+														O1a1a1a1a1a1b1c	FGC66158^^									
+															O1a1a1a1a1a1b1c1	FGC66159, FGC66161^^, FGC66166, FGC66169, FGC66171, FGC66173, FGC66176								
+																O1a1a1a1a1a1b1c1a	MF15014							
+															O1a1a1a1a1a1b1c2	ACT5041/Y149831, ACT5082/Y149750, ACT5111/Y149829, Y149726, Y149786								
+														O1a1a1a1a1a1b1d	BY135127/Y135798, MF19680/Y135848, MF20310/Y135916, Y135830									
+														O1a1a1a1a1a1b1e	BY11120/Y23534, Y146817									
+															O1a1a1a1a1a1b1e1	Y146786, Y146790. Y146860, Y146864								
+												O1a1a1a1a1a1c	Y31266, Y31267											
+													O1a1a1a1a1a1c1	Y31261, Y31262, Y31263, Y31264, Y31265, Y31643 										
+														O1a1a1a1a1a1c1a	Y106084									
+															O1a1a1a1a1a1c1a1	A23677, MF19965								
+													O1a1a1a1a1a1c2	Y142811, Y142776, Y142780, Y142788, Y142795										
+														O1a1a1a1a1a1c2a	Y142799, Y142810									
+													O1a1a1a1a1a1c3	A22477, A22478, A22479^^										
+												O1a1a1a1a1a1d	A12442, A12443 											
+													O1a1a1a1a1a1d1	A12441, Y75988										
+														O1a1a1a1a1a1d1a	Y76085									
+															O1a1a1a1a1a1d1a1	F18517, F24766^^								
+															O1a1a1a1a1a1d1a2	MF15781, MF16411								
+													O1a1a1a1a1a1d2	ACT1103, ACT1113, ACT1582, ACT1691, ACT1755, ACT4959										
+												O1a1a1a1a1a1e	MF1071, MF1072, MF1073			 								
+													O1a1a1a1a1a1e1	MF1074										
+													O1a1a1a1a1a1e2	Y151570										
+														O1a1a1a1a1a1e2a	Y151577									
+															O1a1a1a1a1a1e2a1	MF37645/Y159955, MF38043/Y159944, Y159943, Y159946^^								
+												O1a1a1a1a1a1f	Y137973, Y137968											
+											O1a1a1a1a1a2	CTS4585, CTS7624, FGC15395/Y14269, FGC15397/Y14272, FGC15398/Y13987, FGC15399/Y13986, FGC15400/Y13989, FGC15401/Y13988, FGC15409/Y13985, FGC47328, FGC47336 												
+												O1a1a1a1a1a2a	FGC15402/Y13984, Y14273 											
+										 			O1a1a1a1a1a2a1	FGC15410, FGC15423										
+														O1a1a1a1a1a2a1a	FGC15421									
+													O1a1a1a1a1a2a2	A22480, F15476, F17188, F18706, F23328										
+													O1a1a1a1a1a2a3	MF6395, MF6413, MF6514, MF6550										
+												O1a1a1a1a1a2b	MF6441											
+										O1a1a1a1a1b	MF6080, MF6081, MF6082													
+											O1a1a1a1a1b1	MF6083, MF6091												
+												O1a1a1a1a1b1a	MF6084, MF6085, MF6088, MF6090, MF6092, MF6094, MF6095, MF6096, MF6097, MF6098, MF6099, MF6100, MF6101, MF6102, MF6103											
+									O1a1a1a1a2	MF1075, MF1076, MF1077, MF1078, MF1079, MF1080, MF1081, MF1082														
+										O1a1a1a1a2a	Y137919, Y137922, Y137926, Y137930, Y137933, Y137935, Y137937, Y137940, Y137946													
+											O1a1a1a1a2a1	Y137924, Y137927, Y137929, Y137934, Y137943												
+												O1a1a1a1a2a1a	MF21015											
+												O1a1a1a1a2a1b	A23678/MF42038											
+									O1a1a1a1a3	ACT263, ACT285, Y135776, Y135780, Y135854														
+										O1a1a1a1a3a	ACT133, ACT201, ACT247, ACT251, ACT253, ACT254, ACT298, ACT323, ACT324, ACT329, ACT340, ACT363, Y135792, Y135808, Y135836, Y135881, Y135910													
+							O1a1a1a2	YP4610/Z39229																
+								O1a1a1a2a	AM00330/AMM480/B386, SK1533, Z39230/YP4600, Z39231/YP4601, Z39232/YP4603, Z39233/YP4605, Z39234/YP4607, Z39235/YP4609, Z39236/YP4611, Z39237/YP4612, Z39238/YP4613, Z39239/YP4614, Z39240/YP4615, Z39241/YP4616, Z39242/YP4617, Z39243/YP4618, Z39244/YP4619, Z39245/YP4620, Z39246/YP4621															
+									O1a1a1a2a1	AM00333/AMM483/B387, Z39247/YP4602														
+										O1a1a1a2a1a	B388, Z39248/YP4604, Z39249/YP4608													
+								O1a1a1a2b	SK1555															
+							O1a1a1a3	L316.2/N8.2, SK1526																
+								O1a1a1a3a	MF14293, MF16341															
+							O1a1a1a4	SK1530																
+						O1a1a1b	F5498/SK1568/Z23420, CTS8920, F16958, Y125151, Z23402, Z23405, Z23408, Z23411, Z23413, Z23414, Z23415, Z23417, Z23418, Z23421, Z23425, Z23426, Z23427, Z23430, Z23431, Z23432, Z23436																	
+							O1a1a1b1	Z23406, Z23407, Z23422																
+								O1a1a1b1a	M101															
+									O1a1a1b1a1	SK1573														
+									O1a1a1b1a2	A23875														
+								O1a1a1b1b	Z23392, F23022, SK1572/Z23440, Z20407, Z23404, Z23416, Z23424, Z23429, Z23435, Z23437, Z23438, Z23439															
+									O1a1a1b1b1	Z23442														
+										O1a1a1b1b1a	F22870, V2326/Z39268, MF6105, MF6106, MF6107													
+											O1a1a1b1b1a1	SK1571, F18693, F21723, F23325, F25221, MF6108, MF6109, MF6110, MF6111, MF6112, MF6113, MF6497, Z38631, Z38632												
+												O1a1a1b1b1a1a	F20634											
+										O1a1a1b1b1b	Z38638													
+											O1a1a1b1b1b1	Z38636, F23485, F25763												
+					O1a1a2	CTS8423, F4084																		
+						O1a1a2a	CTS52, CTS5880, CTS11785																	
+							O1a1a2a1	CTS701, CTS4115, CTS6217																
+					 			O1a1a2a1a	K644/Z23266, Z23269															
+									O1a1a2a1a1	CTS716														
+										O1a1a2a1a1a	MF2375													
+										O1a1a2a1a1b	Y147549													
+									O1a1a2a1a2	CTS352, CTS9421, CTS9476														
+										O1a1a2a1a2a	CTS3144													
+									O1a1a2a1a3	Z23271														
+										O1a1a2a1a3a	Z7773													
+										O1a1a2a1a3b	Z23326													
+								O1a1a2a1b	Y157651															
+									O1a1a2a1b1	CTS1992														
+										O1a1a2a1b1a	CTS11040													
+							O1a1a2a2	FGC66104																
+								O1a1a2a2a	FGC66056															
+									O1a1a2a2a1	FGC66089														
+										O1a1a2a2a1a	FGC66085													
+							O1a1a2a3	BY47757																
+						O1a1a2b	F2444																	
+							O1a1a2b1	Y137055																
+							O1a1a2b2	F1056																
+								O1a1a2b2a	MF6458															
+						O1a1a2c	SK1522																	
+							O1a1a2c1	MF6151																
+				O1a1b	CTS5726, CTS3085, CTS3400, CTS7370^,CTS8228^, CTS9138^, CTS9243^, CTS9540^, CTS11079, F819^, F1452, F1620.2, F2104, F2644^, F2852^, F2911, F3063, F3495, F3640, SK1589, Z39164, Z39165, Z39166^, Z39167, Z39168, Z39169, Z39170, Z39171^, Z39172^, Z39173, Z39174,Z39175^, Z39176, Z39177, Z39178, Z39179^, Z39180^, Z39181, Z39182, Z39183^, Z39184, Z39185, Z39186, Z39187,Z39188, Z39189, Z39190, Z39191, Z39192, Z39193, Z39194, Z39195, Z39196^, Z39197, Z39198^, Z39199^																			
+					O1a1b1	SK1590																		
+						O1a1b1a	F1476																	
+							O1a1b1a1	MF2387																
+								O1a1b1a1a	MF2958															
+							O1a1b1a2	F2818																
+						O1a1b1b	B390																	
+			O1a2	M110, F881, F908, F1081,F1608, F1880, F2340, F2380, F2635, F2671, F3134, F3152, F3157, F3214, M50, M103																				
+				O1a2a	F3288																			
+					O1a2a1	B392, Z38606,Z38607, Z38608, Z38609, Z38610, Z38611																		
+						O1a2a1a	B393, Z38612																	
+					O1a2a2	F1600, AM00387/F2954, F26627																		
+					O1a2a3	Y33185																		
+					O1a2a4	Z38625, Z46454																		
+			O1a3	F1036																				
+				O1a3a	F1009																			
+					O1a3a1	F970																		
+		O1b	M268, F138, F167/L690, F256/M1341, F292/M1363, F330/L463, F435/M1417, F516, P31																					
+			O1b1	F2320, F3008/M1441, F3286/M1465																				
+				O1b1a	M1470																			
+					O1b1a1	PK4, CTS6616/M1392, CTS7320/M1405, CTS7541/M1407, CTS7548/M1408, CTS8589/M1425, CTS9150, CTS11303, F722/M1279, F932/M1290, F1058/M1302, F1085/M1305, F1130/M1306, F1265.1/M1313.1, F1346/M1316, F1353/M1317, F1809/M1352, F2317, F2338.2/M1391.2, F3033.1/M1443.1/V4056.1/Z2838.1, F3424/M1489, F3439/M1494																		
+						O1b1a1a	M95, F709, F987/M1300, F1931/M1362, F2176/M1376, F2254/M1383, F2917/M1436, F4233/M1404																	
+							O1b1a1a1	F1803/M1348, CTS6251/M1384, M1310																
+								O1b1a1a1a	F1252															
+									O1b1a1a1a1	F2924, CTS10077, CTS10240														
+										O1b1a1a1a1a	F2524, Z23956													
+											O1b1a1a1a1a1	M111, M88, CTS1163, F1120, F1643, F2346, F2454,  F2554, F2861, F3055												
+												O1b1a1a1a1a1a	F2758, CTS10965, Z24081, Z24082, Z24084, Z24085, Z24087											
+													O1b1a1a1a1a1a1	Z24083, Z24086										
+														O1b1a1a1a1a1a1a	Z24089									
+															O1b1a1a1a1a1a1a1	F923, F1108, F2411, F3671								
+																O1b1a1a1a1a1a1a1a	A15721							
+																	O1b1a1a1a1a1a1a1a1	CTS2022						
+																	 	O1b1a1a1a1a1a1a1a1a	F3053, Z24165					
+																			O1b1a1a1a1a1a1a1a1a1	F1399				
+																				O1b1a1a1a1a1a1a1a1a1a	F2415, CTS3745, Z3955.1			
+																			O1b1a1a1a1a1a1a1a1a2	FGC79907				
+																				O1b1a1a1a1a1a1a1a1a2a	FGC79915			
+																	O1b1a1a1a1a1a1a1a2	Z24131						
+															 	O1b1a1a1a1a1a1a1b	Z24100							
+															O1b1a1a1a1a1a1a2	SK1627/Z24091, Z24093								
+																O1b1a1a1a1a1a1a2a	Z39410							
+																O1b1a1a1a1a1a1a2b	Y26367							
+														O1b1a1a1a1a1a1b	Z24088									
+															O1b1a1a1a1a1a1b1	F19221, Z46446, Z46447								
+																O1b1a1a1a1a1a1b1a	F19998, F20463, F25710, Z46448							
+												O1b1a1a1a1a1b	F2890											
+													O1b1a1a1a1a1b1	Z24048										
+														O1b1a1a1a1a1b1a	Z24050									
+															O1b1a1a1a1a1b1a1	ACT523/MF14350, ACT526/Y152625, BY138909, F14965, F15447, F15546, F16320, F17231, F18562, F19820, F20327, F20510, F22458, F23261, F23467, F23557, F23683, F23840, F24393, F25719, PH1020, Y151531, Y151535, Y151536, Y151538, Y156517, YP5979, Z46423, ZS1380								
+																O1b1a1a1a1a1b1a1a	F15446, F19969, F21044							
+																	O1b1a1a1a1a1b1a1a1	F16217						
+																O1b1a1a1a1a1b1a1b	ACT505, ACT507, ACT508, ACT509							
+																	O1b1a1a1a1a1b1a1b1	ACT553, ACT555						
+														O1b1a1a1a1a1b1b	F18990, F22843									
+															O1b1a1a1a1a1b1b1	F4101, Y147564, Y147610, Y148758								
+													 			O1b1a1a1a1a1b1b1a	F733, F2819, F4247, F4296							
+													O1b1a1a1a1a1b2	Z24014										
+										O1b1a1a1a1b	CTS5854, Z23743, Z23744													
+											O1b1a1a1a1b1	Z23810												
+												O1b1a1a1a1b1a	CTS7399, FGC19685, FGC19699, FGC19670/Y14253/Z23825, FGC19672/Y14260/Z23840, FGC19673/SK1620/Y14000/Z23821, FGC19674/Y14018/Z23835, FGC19675/Y13998/Z23819, FGC19676/Y14255/Z23831, FGC19677/Y14259/Z23834, FGC19678/Y14257, FGC19679/Y14008/Z23828, FGC19681/Y14020/Z23836, FGC19682/Y14261/Z23841, FGC19683/Y14011/Z23829, FGC19684/Y14014/Z23832, FGC19686/Y14022/Z23839, FGC19687/Y13999/Z23820, FGC19688/Y14007/Z23827, FGC19689/SK1619/Y14001/Z23822, FGC19694/SK1618/Y14256, FGC19705/Y14010, FGC19710/Y14021/Z23837, Z23824, Z23833, Z23838, Z23843											
+													O1b1a1a1a1b1a1	FGC19713/Y14026, FGC19671/Z23845, FGC19690/Y14251/Z23851, FGC19693/Y14013/Z23857, FGC19698/Y13996/Z23852, FGC19700/Y14017/Z23861, FGC19701/Y14002/Z23853, FGC19703/Y14262/Z23866, FGC19711/Y14025/Z23865, FGC19712/Y14016/Z23860, FGC19715/Y13997, FGC19724, Z23858										
+														O1b1a1a1a1b1a1a	FGC19707/Y14006									
+															O1b1a1a1a1b1a1a1	Z23849								
+																O1b1a1a1a1b1a1a1a	Z23863							
+																	O1b1a1a1a1b1a1a1a1	Y148916						
+																		O1b1a1a1a1b1a1a1a1a	MF16225, MF16355, MF16682					
+																			O1b1a1a1a1b1a1a1a1a1	Z46424, Z46425, Z46426, Z46427, Z46428, Z46429				
+																		O1b1a1a1a1b1a1a1a1b	BY73069, MF14424, MF15082, MF15394, MF16057, MF16067, MF16089, MF16723					
+																			O1b1a1a1a1b1a1a1a1b1	MF14663				
+																				O1b1a1a1a1b1a1a1a1b1a	MF15901, MF15949, MF16632			
+																		O1b1a1a1a1b1a1a1a1c	BY70435, MF14801, MF15157, MF15705, MF15710, MF16548, MF17610, ZS7692					
+																			O1b1a1a1a1b1a1a1a1c1	MF16254				
+																				O1b1a1a1a1b1a1a1a1c1a	F9934			
+																	O1b1a1a1a1b1a1a1a2	F20080, F21792, F24408, Z46430						
+																		O1b1a1a1a1b1a1a1a2a	Z46431, Z46432, Z46433					
+																		O1b1a1a1a1b1a1a1a2b	F15867, F24415, Z46434, Z46435					
+																			O1b1a1a1a1b1a1a1a2b1	MF14552, MF14938, MF15648, MF16334				
+																	O1b1a1a1a1b1a1a1a3	FGC61038, FGC61039, FGC61054, Y31276, Y31927, Y31928 						
+															O1b1a1a1a1b1a1a2	FGC19716, FGC19718, FGC19719, FGC19729, FGC19731, FGC19734, FGC19746								
+																O1b1a1a1a1b1a1a2a	FGC14264/Y3714, Y147886, Y157954, Y157974, Y157985, Y157990, Y158003, Y158041							
+																O1b1a1a1a1b1a1a2b	BY65986, BY114169, MF14454, MF15902							
+																	O1b1a1a1a1b1a1a2b1	MF14236, MF16044, MF16159, MF16449						
+												O1b1a1a1a1b1b	 CTS651, CTS5267, CTS7642, CTS8722, CTS9915											
+													O1b1a1a1a1b1b1	CTS9884										
+											O1b1a1a1a1b2	Z23781												
+												O1b1a1a1a1b2a	F4229, F4212, F4251, FGC61079, FGC61080, PF3452, Z23746, Z23769, Z23787, Z23799											
+													O1b1a1a1a1b2a1	F809, Y31259, Y32109, Z23745, Z23766, Z23777, Z23784, Z23786, Z23791, Z23797, Z23801, Z23803, Z23804, Z23807 										
+														O1b1a1a1a1b2a1a	Z23795									
+															O1b1a1a1a1b2a1a1	F2517, F24254, Z23759, Z23794, Z23805								
+																O1b1a1a1a1b2a1a1a	Z23790							
+																O1b1a1a1a1b2a1a1b	MF2899, MF2933, MF3071, MF3242, MF3940, MF4628, MF4674, MF4703, MF4725, MF4799, MF5644, MF5664, MF5692, MF5761, MF5877							
+															O1b1a1a1a1b2a1a2	A22937								
+																O1b1a1a1a1b2a1a2a	A23595, A23596							
+														O1b1a1a1a1b2a1b	FGC61076, FGC61078, FGC61096, FGC61099, FGC61101, FGC61102, FGC61103, FGC61105. FGC61107, FGC61119, FGC61120, FGC61121, FGC61125, FGC61126, FGC61130, FGC61133, FGC61141, FGC61144, FGC61145, FGC61146, FGC61151, Y82824, Y93224									
+									O1b1a1a1a2	SK1630, SK1631, SK1632, SK1633														
+										O1b1a1a1a2a	ACT5539, F16061, F19607, F25116													
+											O1b1a1a1a2a1	SK1636												
+								O1b1a1a1b	F789/M1283, F2028/M1367, F2522/M1410, F3092, F3318/M1469, F4181/M1357															
+									O1b1a1a1b1	FGC29900/Y9322/Z23667														
+										O1b1a1a1b1a	B426/FGC29896/Y9033/Z23671, FGC29897/Y9320/Z23673, FGC29898/Y9036/Z23674, FGC29899/Y9034/Z23672													
+											O1b1a1a1b1a1	FGC29907/YP3930, SK1640/YP3931												
+											O1b1a1a1b1a2	B427/Z23680, M6661												
+											O1b1a1a1b1a3	B424												
+												O1b1a1a1b1a3a	B425											
+											O1b1a1a1b1a4	F15214												
+												O1b1a1a1b1a4a	F21137											
+										O1b1a1a1b1b	Z39485 , Z39486^, Z39487, Z39488, Z39489^													
+											O1b1a1a1b1b1	F26580, Y26463												
+												O1b1a1a1b1b1a	F18676											
+										O1b1a1a1b1c	B418, Z39490													
+											O1b1a1a1b1c1	B421												
+											O1b1a1a1b1c2	F14906												
+												O1b1a1a1b1c2a	F16164											
+									O1b1a1a1b2	A22938														
+										O1b1a1a1b2a	SK1646													
+							O1b1a1a2	CTS350, CTS2549, CTS3471, CTS6531, CTS7187, CTS7270, CTS7809, CTS11962.2/Z2953.2																
+							O1b1a1a3~	Page103																
+						O1b1a1b	F838, CTS892																	
+							O1b1a1b1	CTS3857, F1048, Z23602																
+								O1b1a1b1a	F714															
+									O1b1a1b1a1	F3357, F4380/Z23628, Z23597														
+										O1b1a1b1a1a	F977													
+											O1b1a1b1a1a1	F1199, F1309, F1685,F1742, F2189, F2445, F2995, F3353												
+										O1b1a1b1a1b	CTS5664, CTS9103, CTS9730, CTS10934													
+											O1b1a1b1a1b1	Y155291, Y157013, Y157084, Y157148, Y157166												
+											O1b1a1b1a1b2	CTS2452, CTS3540												
+								O1b1a1b1b	F15640															
+									O1b1a1b1b1	F16212														
+										O1b1a1b1b1a	F21414, Y160504													
+											O1b1a1b1b1a1	F15452, F16425												
+					O1b1a2	Page59, CTS1456, CTS1719, CTS4040, CTS5528, CTS5745, CTS7643, F883, F888, F1098, F1485, F2117, F2290, F2601, F3016, F3079, F3445																		
+						O1b1a2a	F993, CTS2335, CTS5445,CTS7866, CTS8849, CTS10154, CTS10437, CTS11033, F1484, F1669, F2120, F2124, F2131, F2383, F2414, F2590, F2771, F2862, F3036, F3135, F3217, F3262, SK1659, Z24391																	
+							O1b1a2a1	F1759, CTS5847,CTS8414, CTS11890, F2064, F3314, F3323, F3346, F3478, Z24393, Z24407																
+								O1b1a2a1a	CTS1127, A16611, A16612, A16613, CTS6105, PH2506, PH2797, PH5023															
+						O1b1a2b	F417/M1654, CTS7268, CTS10113,F1236, F1860, F1956, F2061, F2504, F2775, F3252, F3291, F3632																	
+							O1b1a2b1	F840, CTS250, CTS949, F984, FGC30073, Y10774 																
+								O1b1a2b1a	F1127, CTS10685, F1628, F1776, F2183															
+							O1b1a2b2	CTS1451, CTS4475, CTS5284, CTS6503, CTS9341																
+						O1b1a2c	CTS9996																	
+			O1b2	P49, M176/Page63/SRY465																				
+				O1b2a	F1942/Page92, IMS-JST022454, M302																			
+					O1b2a1	CTS9259, CTS348, CTS9752, F2315, PF4474, Z24512, Z24520, Z24522, Z24553																		
+						O1b2a1a	F1204, F1290, F1530, F1805,F2634, F2960, F3147, F3327, F3356, K10																	
+							O1b2a1a1	CTS713, CTS7776, CTS8032, CTS10145, CTS10341, CTS10674, CTS11723, CTS11986, K7																
+								O1b2a1a1a	CTS1875, CTS7465, CTS8777															
+									O1b2a1a1a1	CTS10682, CTS1966,CTS3764.2, CTS3926, CTS6725, CTS7366, CTS8034, Z24596														
+								O1b2a1a1b	Z24598, Z24599															
+								O1b2a1a1c	CTS203, CTS6622, CTS9892															
+							O1b2a1a2	F2868, F3110, K4																
+								O1b2a1a2a	L682, CTS2734, CTS6803,CTS9322, K28															
+									O1b2a1a2a1	CTS723, Z24624														
+										O1b2a1a2a1a	CTS7620, Z39506													
+										O1b2a1a2a1b	A12446, A12447, A12448													
+											O1b2a1a2a1b1	PH40, PH437												
+								O1b2a1a2b	F940, F1912, F3390															
+							O1b2a1a3	CTS10687, F1800, F1813, F1823, F1877, F3821																
+								O1b2a1a3a	CTS1215, CTS3729, F787, F867, F1553, F2026, F2604, F2767, F3065															
+						O1b2a1b	CTS562, CTS3505, CTS10354																	
+					O1b2a2~	Page90																		
+	O2	M122, CTS10736, CTS10753, F36, F400, F433, F471, F633, P198																						
+		O2a	M324, CTS8153, CTS8399, F27, F71, F113, F129, F166, F341, F406, F572, P93/Page79, P197, P199, P200																					
+			O2a1	L127.1, CTS5687, CTS7638,CTS11981, F51, F58, F95, F145, F159, F164, F170, F243, F272, F300, F304, F305, F412, F498, F573, F601, F642, F676, KL1/L465, KL2/L467																				
+				O2a1a	F1876/Page127, F964, F3143																			
+					O2a1a1	F2159, F2726, F2789, F3169, F4102																		
+						O2a1a1a	F1867/Page124																	
+							O2a1a1a1	F852, CTS3709, CTS8168, CTS8587, CTS10730, F1054, F4348/Z24834, SK1669/Z24838, Z24836, Z24840, Z24844																
+								O2a1a1a1a	F2266															
+									O2a1a1a1a1	L599, M121														
+										O2a1a1a1a1a	Z24958													
+											O2a1a1a1a1a1	Z43961, Z43962												
+												O2a1a1a1a1a1a	Z43963, Z43964, Z43965											
+											O2a1a1a1a1a2	MF3005												
+												O2a1a1a1a1a2a	MF2718, MF2864, MF5594											
+											O2a1a1a1a1a3	MF14378, MF15243, MF15651												
+										O2a1a1a1a1b	MF21009, MF21198, MF22587													
+											O2a1a1a1a1b1	MF21989												
+									O2a1a1a1a2	CTS3500														
+								O2a1a1a1b	F854															
+									O2a1a1a1b1	CTS1290^^														
+										O2a1a1a1b1a	Z43966, Z43967, Z43968, Z43969, Z43970, Z43971, Z43972, Z43973, Z43974													
+									O2a1a1a1b2	MF6584														
+										O2a1a1a1b2a	F2687, F2811, Page130.1													
+											O2a1a1a1b2a1	F2283												
+							O2a1a1a2	MF14217, MF14223, MF14363																
+								O2a1a1a2a	MF14214, MF14216, MF14281															
+									O2a1a1a2a1	MF14184, MF14436, MF14595														
+									O2a1a1a2a2	MF14337, MF14510^^, MF14921														
+						O2a1a1b	F915, CTS7667,  F1675, F2528, F2633, F2975, F3182, F3287, F3417, F3669 																	
+							O2a1a1b1	F1478, F1920, F3046, F3284, F3656, F4195, F4312																
+								O2a1a1b1a	PF5390															
+									O2a1a1b1a1	CTS1936, Z24782, Z24797, Z24818														
+										O2a1a1b1a1a	Z43975, Z43976, Z43977, Z43978, Z43979, Z43980 													
+										O2a1a1b1a1b	PH954, PH1405, PH1557													
+											O2a1a1b1a1b1	MF14123, MF14326^^, MF15866												
+									O2a1a1b1a2	FGC33994, A18026, FGC34004, FGC34008, FGC34009, FGC34019, FGC34022, FGC34023, FGC34029														
+										O2a1a1b1a2a	A18028, FGC33990													
+											O2a1a1b1a2a1	FGC34020												
+												O2a1a1b1a2a1a	MF15799											
+													O2a1a1b1a2a1a1	MF14471, MF14775, MF15531										
+													O2a1a1b1a2a1a2	MF15777										
+													O2a1a1b1a2a1a3	MF87544										
+														O2a1a1b1a2a1a3a	MF14300									
+										O2a1a1b1a2b	MF15143													
+											O2a1a1b1a2b1	MF14383, MF15294, MF15537												
+												O2a1a1b1a2b1a	MF16404											
+											O2a1a1b1a2b2	ALK841.2												
+												O2a1a1b1a2b2a	MF14702^^											
+													O2a1a1b1a2b2a1	MF14599										
+												O2a1a1b1a2b2b	MF14261											
+													O2a1a1b1a2b2b1	MF14133, MF14155										
+													O2a1a1b1a2b2b2	MF14741										
+														O2a1a1b1a2b2b2a	MF15713									
+													O2a1a1b1a2b2b3	MF15080										
+														O2a1a1b1a2b2b3a	MF14446									
+													O2a1a1b1a2b2b4	MF15193										
+														O2a1a1b1a2b2b4a	MF22423									
+										O2a1a1b1a2c	MF14358													
+									O2a1a1b1a3	MF2890														
+								O2a1a1b1b	F905, F1071, F1854															
+							O2a1a1b2	F4080, MF2655, MF2656																
+								O2a1a1b2a	F4180, F4291															
+								O2a1a1b2b	MF14286															
+				O2a1b	IMS-JST002611, CTS1872, CTS2483, CTS5879, F61, F99, F240, F247, F302, F309, F460, F562							 												
+					O2a1b1	F18, CTS11342																		
+						O2a1b1a	FGC12511																	
+							O2a1b1a1	F117, CTS5820, F514, FGC12471/Y3268 																
+								O2a1b1a1a	CTS4598, CTS12658, F108, F197, F253, Y3547/Z25052															
+									O2a1b1a1a1	CTS4263, CTS4820, F2, F13, F30, F62, F68, F86, F105, F188^^, F189, F251, F379, F530, F550, F685^^, FGC12469/Y3286/Z25051, FGC12470/Y3292, FGC12474/SK1674/Y3272														
+										O2a1b1a1a1a	F11, CTS858, CTS9415, F60, F119, FGC12468/Y3284, FGC12473/F611/Y3278													
+											O2a1b1a1a1a1	F325, F362, F425/Page69, F526, F561, F664^^, FGC12472/Y3271/Z25059												
+												O2a1b1a1a1a1a	F632, CTS4580, Z25061											
+													O2a1b1a1a1a1a1	F110/M11115, CTS10716, F133, F434, F646, Y21437, Y21448, Z25064, Z25065, Z25067, Z25068  										
+														O2a1b1a1a1a1a1a	CTS3663, Z25081									
+															O2a1b1a1a1a1a1a1	F17, CTS362, CTS2801, CTS4414, CTS5822, CTS6777, CTS9127, CTS11839, F64, F92, F357, F529, F620, F672, F691, Z25075, Z25076, Z25077, Z25079, Z43887 								
+																O2a1b1a1a1a1a1a1a	F377							
+																	O2a1b1a1a1a1a1a1a1	CTS7789, F1249, F1611, F2270						
+																		O2a1b1a1a1a1a1a1a1a	F856, F1095, F1250, F2427, F2732					
+																			O2a1b1a1a1a1a1a1a1a1	F1418, F1495				
+																			O2a1b1a1a1a1a1a1a1a2	Z25098, MF16203			 	
+																				O2a1b1a1a1a1a1a1a1a2a	Z25097, MF20726/Y157649			
+																					O2a1b1a1a1a1a1a1a1a2a1	Z7776.2		
+																						O2a1b1a1a1a1a1a1a1a2a1a	MF16427, MF16500, MF21617, MF22364, Y111707.2	
+																					O2a1b1a1a1a1a1a1a1a2a2	Z46463		
+																		O2a1b1a1a1a1a1a1a1b	MF14538					
+																			O2a1b1a1a1a1a1a1a1b1	MF15136, MF15342, MF16785				
+																	O2a1b1a1a1a1a1a1a2	CTS7501, CTS8537, F18858						
+																		O2a1b1a1a1a1a1a1a2a	CTS1621					
+																		O2a1b1a1a1a1a1a1a2b	BY57051, BY60948, BY63948, CTS2554					
+																O2a1b1a1a1a1a1a1b	Z43876, Y141175							
+																	O2a1b1a1a1a1a1a1b1	F793, F1316C, F2035, F2108, F3433, Z43869, Z43870, Z43871, Z43872, Z43873, Z43874, Z43875, Z43877  						
+																		O2a1b1a1a1a1a1a1b1a	Y141213, Y141252, Y141275					
+																			O2a1b1a1a1a1a1a1b1a1	MF7453				
+																		O2a1b1a1a1a1a1a1b1b	Y65006, Y97194					
+																			O2a1b1a1a1a1a1a1b1b1	A22940, A22941				
+																		O2a1b1a1a1a1a1a1b1c	MF30934/Y151758					
+																			O2a1b1a1a1a1a1a1b1c1	MF31684/Y151809, MF51320/Y151825				
+																		O2a1b1a1a1a1a1a1b1d	Y150436					
+																		O2a1b1a1a1a1a1a1b1e	CTS10514, F23571					
+																		O2a1b1a1a1a1a1a1b1f	F931, F1455, F2154, F2255, F2770					
+														O2a1b1a1a1a1a1b	Z43879									
+															O2a1b1a1a1a1a1b1	Y20951, FGC65999^^, Y21440, Y21441								
+																O2a1b1a1a1a1a1b1a	Y20939, FGC66006^^, Y20948, Y20949, Y21435, Y21442, Y21443, Y21445							
+																	O2a1b1a1a1a1a1b1a1	Y20932, Y20933, Y20934, Y20935, Y20936, Y20938, Y20940, Y20941, Y20942, Y20943, Y20944, Y20945, Y20946, Y20947, Y20950, Y21438, Y21439, Y21444, Y21446, Y21447, Z34692, Z43880, Z43885, Z43886						
+																	O2a1b1a1a1a1a1b1a1~	Y20937, Z43881, Z43882, Z43883, Z43884  						
+																		O2a1b1a1a1a1a1b1a1a	FGC66016, FGC66017, FGC66019, FGC66020, FGC66021, FGC66030, FGC66032, FGC66036, FGC66037, FGC66039, FGC66040, FGC66042, FGC66045, Y87030					
+																	O2a1b1a1a1a1a1b1a2	MF6724, MF6725, MF6726, MF6728						
+																O2a1b1a1a1a1a1b1b	FGC23704, Y52313							
+															O2a1b1a1a1a1a1b2	CTS7271								
+														O2a1b1a1a1a1a1c	MF6739, MF6740									
+															O2a1b1a1a1a1a1c1	MF6754, MF6755								
+																O2a1b1a1a1a1a1c1a	FGC1419/Y9188, MF6765, MF6766, MF6767, MF6768, MF6769, MF6770, MF6771							
+													O2a1b1a1a1a1a2	F16340, MF6779, MF6780, MF6781										
+														O2a1b1a1a1a1a2a	F15504, F16134, F19037									
+													O2a1b1a1a1a1a3~	PH83, PH2418										
+												O2a1b1a1a1a1b	F38, F106, F142, F178, F286, F381, F475, F479, F553, F592, F625, F3453											
+													O2a1b1a1a1a1b1	F386, F485, FGC12502 										
+														O2a1b1a1a1a1b1a	A22321, F358, F655^^, F1978, FGC12487, FGC12505, FGC12506, MF6804, Y128662  									
+															O2a1b1a1a1a1b1a1	F136, F270, F3131, FGC12485, FGC12504, MF6805^^, MF6806, Y128070								
+																O2a1b1a1a1a1b1a1a	F2405							
+																	O2a1b1a1a1a1b1a1a1	A22322, A22323, F806, F1272, F1488^^, F2128, F3575, F3589, FGC12479, FGC12489, FGC12495, MF6815, MF7669						
+																O2a1b1a1a1a1b1a1b	MF6807, MF6808							
+																	O2a1b1a1a1a1b1a1b1	FGC33600, MF6809, MF6810, MF6811						
+																		O2a1b1a1a1a1b1a1b1a	MF6812					
+																			O2a1b1a1a1a1b1a1b1a1	MF6813, MF6814				
+																				O2a1b1a1a1a1b1a1b1a1a	A7966/BY987			
+																					O2a1b1a1a1a1b1a1b1a1a1	MF15642 		
+																						O2a1b1a1a1a1b1a1b1a1a1a	BY42738^^	
+																				O2a1b1a1a1a1b1a1b1a1b	MF7684			
+																			O2a1b1a1a1a1b1a1b1a2	MF7764, MF7773				
+																				O2a1b1a1a1a1b1a1b1a2a	MF15180			
+																	O2a1b1a1a1a1b1a1b2	MF14988, MF15920						
+																		O2a1b1a1a1a1b1a1b2a	MF46495, MF50249, MF51634					
+																	O2a1b1a1a1a1b1a1b3	F2091, F2375, F2622, F2931, F3332						
+																O2a1b1a1a1a1b1a1c	MF7704							
+																	O2a1b1a1a1a1b1a1c1	Z46464						
+																		O2a1b1a1a1a1b1a1c1a	MF14553, MF15671, MF16395					
+																		 	O2a1b1a1a1a1b1a1c1a1	MF14857, MPB069.2^^/Z19477.2^^				
+																		O2a1b1a1a1a1b1a1c1b	MF14959, MF15040, MF15182					
+																	O2a1b1a1a1a1b1a1c2	MF7673, MF7692, MF7693, MF7818, MF7827, MF7850						
+																		O2a1b1a1a1a1b1a1c2a	MF7721, MF7732					
+																O2a1b1a1a1a1b1a1d	MF7678, MF7836, MF7837							
+																	O2a1b1a1a1a1b1a1d1	MF7716						
+																		O2a1b1a1a1a1b1a1d1a	BY68984, MF15205, MF15302, MF16715					
+																O2a1b1a1a1a1b1a1e	MF7664, MF7665, MF7767, MF7768, MF7824 							
+																O2a1b1a1a1a1b1a1f	A22623, A22622^^							
+															O2a1b1a1a1a1b1a2	MF6816, MF6818, MF6819, MF6820, MF6821								
+																O2a1b1a1a1a1b1a2a	MF6826							
+																	O2a1b1a1a1a1b1a2a1	MF6836						
+															O2a1b1a1a1a1b1a3	MF14171, MF14334, MF14418, MF14430, MF14466, MF14782								
+														O2a1b1a1a1a1b1b	A10289, FGC8985, M6392, MF6841, MF6842									
+													O2a1b1a1a1a1b2	MF7683, MF7711, MF7719, MF7729, MF7761, MF7780, MF7785, MF7844										
+												O2a1b1a1a1a1c	F12, F196, F480, F659, F660						  					
+													O2a1b1a1a1a1c1	F319, F329										
+														O2a1b1a1a1a1c1a	F683									
+															O2a1b1a1a1a1c1a1	Z25153								
+														O2a1b1a1a1a1c1b	MF6882									
+															O2a1b1a1a1a1c1b1	MF6883, MF6884								
+																O2a1b1a1a1a1c1b1a	MF7876, MF7885, MF7888, MF7923, MF7935, MF7954, MF7974, MF7984							
+													O2a1b1a1a1a1c2	F16631, F17338										
+												O2a1b1a1a1a1d	F930, F1232, F2356, F2589											
+													O2a1b1a1a1a1d1	F2685, CTS4284, F934, F1500^^										
+														O2a1b1a1a1a1d1a	F2202, F3216									
+												O2a1b1a1a1a1e	F1365/M5420/PF1558, F921, F1676, F2109, F2180, F2213, F3232, F3452, F4062, FGC54466, FGC54513, FGC54523, FGC54527, Y15975, Y15977, Y15978, Y15979,  Y16155											
+													O2a1b1a1a1a1e1	Y15976, Y15980, Y26385										
+														O2a1b1a1a1a1e1a	Y16154									
+															O2a1b1a1a1a1e1a1	Y26383, Y26387, Y27899								
+																O2a1b1a1a1a1e1a1a	Y26386, Y27894, Y27896, Y27898, Y27900 							
+																	O2a1b1a1a1a1e1a1a1	SK1686, FGC49730, Y26384, Y27895, Y27897						
+																		O2a1b1a1a1a1e1a1a1a	Y46258					
+																		O2a1b1a1a1a1e1a1a1b	F15966, F22504					
+																O2a1b1a1a1a1e1a1b	MF6915, MF6916							
+																O2a1b1a1a1a1e1a1c	MF8048, MF8070							
+															O2a1b1a1a1a1e1a2	MF6932, MF6933								
+																O2a1b1a1a1a1e1a2a	MF6934							
+																	O2a1b1a1a1a1e1a2a1	MF6935, MF6936^^, MF6937						
+																	O2a1b1a1a1a1e1a2a2	MF6938, MF6939, MF6940^^						
+															O2a1b1a1a1a1e1a3	MF6974, MF6975, MF6976								
+															O2a1b1a1a1a1e1a4	MF6953, MF6954, MF6955								
+														O2a1b1a1a1a1e1b	F1200, F1824, F2409									
+													O2a1b1a1a1a1e2	FGC54486, FGC54495, FGC54520, FGC54522, FGC54529, FGC54538, FGC54540, FGC54545, FGC54488 										
+														O2a1b1a1a1a1e2a	MF2463^^									
+															O2a1b1a1a1a1e2a1	FGC54507								
+																O2a1b1a1a1a1e2a1a	FGC54505, FGC54526							
+																	O2a1b1a1a1a1e2a1a1	MF8087, MF8098						
+															O2a1b1a1a1a1e2a2	MF2473,MF2474								
+																O2a1b1a1a1a1e2a2a	ACT2777							
+																	O2a1b1a1a1a1e2a2a1	ACT2793						
+																O2a1b1a1a1a1e2a2b	MF2464, MF2465							
+														O2a1b1a1a1a1e2b	MF1083									
+															O2a1b1a1a1a1e2b1	MF9483, MF9489								
+																O2a1b1a1a1a1e2b1a	MF9486, MF9487, MF9488							
+														O2a1b1a1a1a1e2c	Y163866, Y163727									
+														O2a1b1a1a1a1e2d	MF8460, MF8464^^,Y138891									
+												O2a1b1a1a1a1f	CTS12877, Z25165											
+													O2a1b1a1a1a1f1	F2527										
+														O2a1b1a1a1a1f1a	CTS5409, CTS6236 									
+															O2a1b1a1a1a1f1a1	CTS9711, MF1308 								
+																O2a1b1a1a1a1f1a1a	MF1309							
+																O2a1b1a1a1a1f1a1b	CTS238, CTS3311							
+															O2a1b1a1a1a1f1a2	MF1085, MF1087, MF1088								
+																O2a1b1a1a1a1f1a2a	F16712, F18801, F22448, F25651							
+																	O2a1b1a1a1a1f1a2a1	MF8589, Y166691, Y166693						
+																		O2a1b1a1a1a1f1a2a1a	MF8504, MF8527, MF8532, SK1687					
+														O2a1b1a1a1a1f1b	F2941, F4073, F4119									
+															O2a1b1a1a1a1f1b1	MF21873, MF21266^^, MF22436, MF22437								
+													O2a1b1a1a1a1f2	CTS2209, CTS2463, CTS2884, CTS11908										
+														O2a1b1a1a1a1f2a	MF17282, MF17349									
+														O2a1b1a1a1a1f2b	CTS4241									
+												O2a1b1a1a1a1g	F723, F971, F972, F1210, F1351, F1422, F1638, F2357, F2560, F2719, F3042, F3103, F3270, F4171											
+													O2a1b1a1a1a1g1	ACT5910/Y156983, ACT5911/Y157100, ACT5929/Y156975										
+												O2a1b1a1a1a1h	CTS2154, Y29851											
+													O2a1b1a1a1a1h1	CTS2107, CTS2128, CTS2916, CTS3518, CTS4150, CTS8491, CTS10670										
+														O2a1b1a1a1a1h1a	MF8526/Y135875									
+															O2a1b1a1a1a1h1a1	MF8582								
+															O2a1b1a1a1a1h1a2	Y135777, Y135811, Y135882, Y135912								
+														O2a1b1a1a1a1h1b	Y150148, Y150175									
+													O2a1b1a1a1a1h2	MF1094, MF1095, MF1096										
+														O2a1b1a1a1a1h2a	MF8512									
+												O2a1b1a1a1a1i	SK1691, SK1696											
+													O2a1b1a1a1a1ia	SK1692, SK1695.2										
+													O2a1b1a1a1a1ib	MF20736, MF20845										
+														O2a1b1a1a1a1ib1	MF20650, MF20662									
+												O2a1b1a1a1a1j	MF1107, MF1108, MF1109											
+													O2a1b1a1a1a1j1	MF1145, ZS12569.2										
+														O2a1b1a1a1a1j1a	MF8613									
+												O2a1b1a1a1a1k	SK1676											
+												O2a1b1a1a1a1l	FGC60773, FGC60775, FGC60776, FGC60777											
+													O2a1b1a1a1a1l1	FGC60796, FGC60811										
+											O2a1b1a1a1a2	MF6982, MF6983, MF6984, MF6985, MF6986, MF6987, MF6988												
+										O2a1b1a1a1b	PH203, PH4404													
+											O2a1b1a1a1b1	FGC1803.2/Y2044.2, PH278, PH975, PH1787, PH2385, PH3699, PH3838, PH3849, PH4535, PH4997, PH5031, PH5323												
+												O2a1b1a1a1b1a	MF7030, MF7032, MF7046, MF7051											
+												O2a1b1a1a1b1b	MF54301, Y173783											
+													O2a1b1a1a1b1b1	MF55477										
+											O2a1b1a1a1b2	MF7062, MF7063, MF7064, MF7065, MF7066												
+									O2a1b1a1a2	MF7120, MF7121, MF7122, MF7123, MF7124														
+								O2a1b1a1b	MF1237, MF1239, MF1240, MF1241															
+									O2a1b1a1b1	MF1292, MF1293, MF1294, MF1295														
+							O2a1b1a2	F449, F618																
+								O2a1b1a2a	F238, CTS5467, CTS11193, CTS12149^^, F202^^															
+									O2a1b1a2a1	F271														
+										O2a1b1a2a1a	F134, F43, F322, F500 													
+											O2a1b1a2a1a1	CTS10846, CTS11423, F1894, F2468, F3031, F3245, F16325     												
+												O2a1b1a2a1a1a	CTS6279, F1273, F3256, F3309, F3434, F20597, F25621											
+													O2a1b1a2a1a1a1	F25545										
+														O2a1b1a2a1a1a1a	MF1150, MF1152, MF1153, MF1154									
+														O2a1b1a2a1a1a1b	CTS9595, F22531, MF16482									
+															O2a1b1a2a1a1a1b1	F20523								
+														O2a1b1a2a1a1a1c	MF8759									
+														O2a1b1a2a1a1a1d	MF18144									
+															O2a1b1a2a1a1a1d1	SK1698								
+																O2a1b1a2a1a1a1d1a	F18567, MF37682, Y166103							
+														O2a1b1a2a1a1a1e	MF17397, MF17665, MF17747									
+													O2a1b1a2a1a1a2	MF14479, MF16714^^										
+														O2a1b1a2a1a1a2a	F1435, F1988, F3113									
+														O2a1b1a2a1a1a2b	MF14140, MF14284, MF14412									
+												O2a1b1a2a1a1b	MF7188, MF7189, MF7190											
+													O2a1b1a2a1a1b1	MF7207, MF7208, MF7209										
+											O2a1b1a2a1a2	F724, F1156, F1336, F1910												
+												O2a1b1a2a1a2a	F288, F1106, F2702											
+												O2a1b1a2a1a2b	MF8764, MF8835, MF8843, MF8848											
+											O2a1b1a2a1a3	F21824, MF1155^^, MF8794												
+												O2a1b1a2a1a3a	F18913, F18976, F20028, MF7241											
+													O2a1b1a2a1a3a1	MF7243, MF7242^^										
+														O2a1b1a2a1a3a1a	MF8757, MF8820, MF8836									
+														O2a1b1a2a1a3a1b	MF7251, MF7253									
+															O2a1b1a2a1a3a1b1	MF7250, MF7258								
+																O2a1b1a2a1a3a1b1a	MF7254, MF7255							
+																	O2a1b1a2a1a3a1b1a1	MF15031, MF15678, MF15916						
+																	O2a1b1a2a1a3a1b1a2	MF7248, MF7249						
+																		O2a1b1a2a1a3a1b1a2a	MF7285, MF7277^^, MF7288					
+												O2a1b1a2a1a3b	MF1156, MF1157, MF1158											
+													O2a1b1a2a1a3b1	MF1159, MF1170										
+													O2a1b1a2a1a3b2	BY38244, MF8805, MF9107										
+														O2a1b1a2a1a3b2a	MF8936, MF8873^^, MF8953									
+														O2a1b1a2a1a3b2b	MF14440, MF14598, Y154728									
+												O2a1b1a2a1a3c	MF2694, Y139000, Y139008											
+											O2a1b1a2a1a4	MF14276, MF14280, MF14312^^												
+												O2a1b1a2a1a4a	MF14692, MF14710, MF16127, MF16706											
+									O2a1b1a2a2	CTS6840, FGC62457, FGC62479, FGC62492														
+										O2a1b1a2a2a	MF14314, MF14470, MF14485													
+											O2a1b1a2a2a1	MF17568^^												
+												O2a1b1a2a2a1a	MF14621, MF15911, MF16174, MF16490											
+												O2a1b1a2a2a1b	MF15708, MF19271											
+													O2a1b1a2a2a1b1	MF16703										
+														O2a1b1a2a2a1b1a	MF16618									
+										O2a1b1a2a2b	CTS679, CTS4997, CTS7010													
+											O2a1b1a2a2b1	CTS5105												
+									O2a1b1a2a3	MF17449														
+								O2a1b1a2b	F1266, F1497, F2016, F4267 															
+									O2a1b1a2b1	MF14122, MF14138														
+									O2a1b1a2b2	F1403, F1404, MF7320^^														
+										O2a1b1a2b2a	MF9185, MF9198, MF9200													
+											O2a1b1a2b2a1	MF9226, MF9248^^												
+										O2a1b1a2b2b	F2459, F2658, F3278													
+											O2a1b1a2b2b1	F2725, MF7348												
+												O2a1b1a2b2b1a	MF7359											
+													O2a1b1a2b2b1a1	MF14177, MF15089, MF16497										
+														O2a1b1a2b2b1a1a	MF9266									
+													O2a1b1a2b2b1a2	MF9267										
+												O2a1b1a2b2b1b	MF7360, MF7361											
+													O2a1b1a2b2b1b1	BY139081										
+													O2a1b1a2b2b1b2	MF14405, MF14669										
+						O2a1b1b	CTS498, CTS957, CTS1028, CTS2398, CTS4941, CTS5926, CTS7341, CTS8263, CTS9516, CTS10139, CTS10185, CTS11076, CTS11949																	
+							O2a1b1b1	MF1348, MF1349, MF1350																
+							O2a1b1b2	CTS5907																
+					O2a1b2	FGC3750/SK1673, L133.2/Page74.2																		
+						O2a1b2a	CTS879																	
+							O2a1b2a1	SK1670, SK1672																
+								O2a1b2a1a	SK1671															
+									O2a1b2a1a1	M164														
+								O2a1b2a1b	MF9326, MF9328, MF9339															
+							O2a1b2a2	Z38921, Z38922																
+								O2a1b2a2a	Z38920															
+			O2a2	IMS-JST021354/P201, CTS8236, F525																				
+				O2a2a	M188																			
+					O2a2a1	F2588, CTS3106, F2638																		
+						O2a2a1a	CTS445, CTS11727, F2055, F2221, F2329, F2592, F3559																	
+							O2a2a1a1	CTS201																
+								O2a2a1a1a	M159/Page96															
+									O2a2a1a1a1	CTS1763, CTS2183, CTS3994, CTS11525														
+										O2a2a1a1a1a	CTS1980													
+										O2a2a1a1a1b	Z35182.2													
+											O2a2a1a1a1b1	MF2541												
+												O2a2a1a1a1b1a	MF2545											
+													O2a2a1a1a1b1a1	MF2546										
+										O2a2a1a1a1c	MF2558													
+											O2a2a1a1a1c1	MF2549												
+												O2a2a1a1a1c1a	MF2548											
+								O2a2a1a1b	FGC50625															
+									O2a2a1a1b1	Y52580.2														
+										O2a2a1a1b1a	A11476.2^^													
+									O2a2a1a1b2	FGC50672														
+										O2a2a1a1b2a	Y172144													
+										O2a2a1a1b2b	FGC50710													
+											O2a2a1a1b2b1	PH2141												
+											O2a2a1a1b2b2	FGC50673												
+												O2a2a1a1b2b2a	MF15268											
+													O2a2a1a1b2b2a1	FGC32772										
+														O2a2a1a1b2b2a1a	MF18626									
+														O2a2a1a1b2b2a1b	MF15693									
+															O2a2a1a1b2b2a1b1	MF15348								
+												O2a2a1a1b2b2b	SK1702											
+													O2a2a1a1b2b2b1	FGC50535^^/V4992^^										
+														O2a2a1a1b2b2b1a	FGC50540, F4010.2/MPB190.2									
+															O2a2a1a1b2b2b1a1	FGC50613								
+																O2a2a1a1b2b2b1a1a	FGC50638							
+															O2a2a1a1b2b2b1a2	BY46774								
+															O2a2a1a1b2b2b1a3	Z46466^^								
+																O2a2a1a1b2b2b1a3a	Z46467							
+															O2a2a1a1b2b2b1a4	MF15589								
+																O2a2a1a1b2b2b1a4a	Z46468							
+															O2a2a1a1b2b2b1a5	MF3726^^								
+														O2a2a1a1b2b2b1b	Y65106.2									
+													O2a2a1a1b2b2b2	BY54719										
+													O2a2a1a1b2b2b3	Y165598										
+													O2a2a1a1b2b2b4	BY63584										
+														O2a2a1a1b2b2b4a	BY55062									
+							O2a2a1a2	M7, F2591, F2680, F4066																
+								O2a2a1a2a	CTS10944, CTS12052, F2594, F3177, F3342, F3371, M209, Z25245															
+									O2a2a1a2a1	F1276, F1898, F2179, F2428, F2962, F3406, F4064, F4173														
+										O2a2a1a2a1a	CTS6489													
+											O2a2a1a2a1a1	F1275, F2309, F3085, FGC20902.3/ZS3748.3												
+												O2a2a1a2a1a1a	Z25411, Z25444											
+													O2a2a1a2a1a1a1	F827, F865, F965, F1289										
+														O2a2a1a2a1a1a1a	M113, F3432, Y140808									
+													O2a2a1a2a1a1a2	Z25398, Z25399, Z25424										
+														O2a2a1a2a1a1a2a	F1100, F1710, Y37861, Y37880									
+															O2a2a1a2a1a1a2a1	F1234, F3229, SK1709, Y37855, Y37856								
+																O2a2a1a2a1a1a2a1a	F1411, F3516, Y37865^^, Y37879							
+																	O2a2a1a2a1a1a2a1a1	N5,SK1708, Y37866, Y37867, Y37868						
+																		O2a2a1a2a1a1a2a1a1a	F15848, F17139, F21077, F24849					
+																			O2a2a1a2a1a1a2a1a1a1	F22246				
+																				O2a2a1a2a1a1a2a1a1a1a	F16501, F17527, F25401, FGC71397^^/Y37883^^			
+																O2a2a1a2a1a1a2a1b	MF3299, MF3922, MF3930, MF5022							
+															O2a2a1a2a1a1a2a2	Y161282, Y161283, Y161284, Y161302, Y161303								
+														O2a2a1a2a1a1a2b	Z25400									
+												O2a2a1a2a1a1b	CTS6579, CTS9866											
+													O2a2a1a2a1a1b1	F14832, F15433, F15788, F15792										
+														O2a2a1a2a1a1b1a	F15414, F15454, F15462									
+													O2a2a1a2a1a1b2	CTS123, CTS192, CTS2847										
+												O2a2a1a2a1a1c	F14807, F15815, F15988											
+													O2a2a1a2a1a1c1	F15259, F15383, F19496										
+														O2a2a1a2a1a1c1a	F19315									
+										O2a2a1a2a1b	F1863, F2079													
+											O2a2a1a2a1b1	F1134, F1992, F2332, F2480, F2612												
+												O2a2a1a2a1b1a	F1262, F2208, F2515											
+								 					O2a2a1a2a1b1a1	F3469										
+									O2a2a1a2a2	Y26403, Y26409, Y26412, Y26413, Y26415, Y26416, Y26421, Y26422, Y26424, Y26428, Y26430, Y26433, Y26434, Y26437, Y26440, Y26446, Y26448, Y26457, Y26460, Y27924, Y27927, Y27932, Y27933, Y27934, Y27939, Y27942, Y27943, Y27951, ZS2079														
+									O2a2a1a2a3	MF9858, MF9859, MF9863^^, MF9864, MF9865														
+										O2a2a1a2a3a	MF21594, MF37121, MF37394													
+						O2a2a1b	F1837, F2576, F2928, F4088, F4163																	
+					O2a2a2	F862, F1027, F1028																		
+						O2a2a2a	F879, F1895, F2495																	
+							O2a2a2a1	F1226, F1423, F1483																
+								O2a2a2a1a	F2937, F2787															
+									O2a2a2a1a1	F4125, MF1182, MF1184														
+										O2a2a2a1a1a	F2859, MF1181													
+											O2a2a2a1a1a1	F2696												
+							O2a2a2a2	CTS8490, CTS8780, CTS10754																
+				O2a2b	P164, CTS4723, CTS11109, CTS12099, F130, F131, F299, F422, F427																			
+					O2a2b1	M134, CTS1287, CTS10188, F85, F100/M1546, F151, M1556																		
+						O2a2b1a	F450/M1667																	
+							O2a2b1a1	M117, Page23, CTS899/M1531, CTS1275/M1536, CTS3251, CTS3270, CTS5128/M1619, CTS6623/M1638, CTS11742/M1720, F141/M1564, F144, F235/M1587, F342/M1627, F373/M1636, F476/M1671, F579/M1692, F581, F584, F613/M1702, F649																
+								O2a2b1a1a	M133, CTS2338, F5/M1514, F204, F484, M1581^^															
+									O2a2b1a1a1	F8, CTS4111, CTS5866, F42, F76^^, F348, F490														
+										O2a2b1a1a1a	A9459^^/F5970^^													
+											O2a2b1a1a1a1	F438												
+												O2a2b1a1a1a1a	F14366^^/Z25906^^											
+													O2a2b1a1a1a1a1	Y17728										
+														O2a2b1a1a1a1a1a	F316, F414, F6517, F14281, F14663, Y21366									
+															O2a2b1a1a1a1a1a1	F155, CTS630, CTS1304, CTS2760, CTS11316, F201, F254, F276, F440, F541, F703, F6227, F6530, F6872, F6909^, F7446, F7447, F7556, F7973, F7994, F14428, F14445, Y21365, Y21367								
+															 	O2a2b1a1a1a1a1a1a	Y21364				 			
+																	O2a2b1a1a1a1a1a1a1	F813/M6539						
+																		O2a2b1a1a1a1a1a1a1a	Y20928					
+																			O2a2b1a1a1a1a1a1a1a1	MF11011, MF11110				
+																			O2a2b1a1a1a1a1a1a1a2	Y137613^^, Y174105^^				
+																				O2a2b1a1a1a1a1a1a1a2a	Y137637			
+																			O2a2b1a1a1a1a1a1a1a3	MF21				
+																			O2a2b1a1a1a1a1a1a1a4	MF2610, MF2612, MF2614, MF2615, MF2618				
+																			O2a2b1a1a1a1a1a1a1a5	CTS7181, F20868				
+																		O2a2b1a1a1a1a1a1a1b	Y154488^^, Y154511^^					
+																			O2a2b1a1a1a1a1a1a1b1	MF1, MF2				
+																				O2a2b1a1a1a1a1a1a1b1a	FGC29526			
+																					O2a2b1a1a1a1a1a1a1b1a1	MF3		
+																			O2a2b1a1a1a1a1a1a1b2	MF4344, MF4455, MF4791				
+																		O2a2b1a1a1a1a1a1a1c	Y138426, Y138509					
+																		O2a2b1a1a1a1a1a1a1d	MF4^^					
+																		O2a2b1a1a1a1a1a1a1e	MF5					
+																		O2a2b1a1a1a1a1a1a1f	MF6, MF7, MF8^^, MF9, MF10, MF11, MF12					
+																		O2a2b1a1a1a1a1a1a1g	F22162, MF13, MF14, MF15, MF16, MF17, MF18, MF19, MF20					
+																O2a2b1a1a1a1a1a1b	Y138597, MF23							
+																	O2a2b1a1a1a1a1a1b1	Y146618, Y146646, Y146651						
+																O2a2b1a1a1a1a1a1c	MF3302, MF4851, MF5883^^, Y173285, Y173395							
+																O2a2b1a1a1a1a1a1d	F1494, F1933, F2118							
+															O2a2b1a1a1a1a1a2	Y138400, Y138403								
+														O2a2b1a1a1a1a1b	ACT7481^^									
+														 	O2a2b1a1a1a1a1b1	F1754								
+																O2a2b1a1a1a1a1b1a	F2137, A16631, A16632, F2503, F2643, S24099.2							
+																 	O2a2b1a1a1a1a1b1a1	F15823						
+																		O2a2b1a1a1a1a1b1a1a	F1442, F2779, F25796					
+																			O2a2b1a1a1a1a1b1a1a1	F2265, F19925, F23807				
+																				O2a2b1a1a1a1a1b1a1a1a	F1123, F2425, F2453, F3048, F3115			
+																					O2a2b1a1a1a1a1b1a1a1a1	F1369		
+																			 		O2a2b1a1a1a1a1b1a1a1a2	MF49015		
+																			O2a2b1a1a1a1a1b1a1a2	BY79235, FGC36297, SK1726, Y98705				
+																		O2a2b1a1a1a1a1b1a1b	MF15397, MF15451					
+																			O2a2b1a1a1a1a1b1a1b1	A9511.2, MF15266, MF49027				
+																				O2a2b1a1a1a1a1b1a1b1a	MF14333, MF14818, MF15313, MF16008			
+																					O2a2b1a1a1a1a1b1a1b1a1	MF14879		
+																			O2a2b1a1a1a1a1b1a1b2	MF15764				
+																				O2a2b1a1a1a1a1b1a1b2a	MF15281			
+																					O2a2b1a1a1a1a1b1a1b2a1	MF14573, MF15850, MF16014, MF16711		
+																					O2a2b1a1a1a1a1b1a1b2a2	MF15326, MF14254^^, MF16688		
+																				O2a2b1a1a1a1a1b1a1b2b	MF14287, MF14622, MF15010, MF15525, MF16611			
+																	O2a2b1a1a1a1a1b1a2	A16636, A16637, A16638, A16640, A16641, A16642, A16643, A16644, A16645						
+																		O2a2b1a1a1a1a1b1a2a	A16639					
+																			O2a2b1a1a1a1a1b1a2a1	BY78763				
+																				O2a2b1a1a1a1a1b1a2a1a	MF14664, MF15561, MF16333			
+																		O2a2b1a1a1a1a1b1a2b	MF14296, MF15663, MF16088					
+																	O2a2b1a1a1a1a1b1a3	BY71124, BY137008, Y47009, Y51519						
+															O2a2b1a1a1a1a1b2	Y170157, Y170158								
+																O2a2b1a1a1a1a1b2a	Z46469, Z46470, Z46471, Z46472							
+																	O2a2b1a1a1a1a1b2a1	Z46473, Z46474						
+																		O2a2b1a1a1a1a1b2a1a	Z46475, Z46476, Z46477					
+														O2a2b1a1a1a1a1c	Z25907, Z25909, F14555/Z25910									
+															O2a2b1a1a1a1a1c1	Z25908								
+															O2a2b1a1a1a1a1c2	MF14162, MF15017, MF16735^^								
+													O2a2b1a1a1a1a2	F1074, F1128, F1955, F2107, F2958, F3660										
+												O2a2b1a1a1a1b	MF3168, FGC29990^^, MF4901, MF5500, SK1728, SK1729											
+											O2a2b1a1a1a2	FGC23469/Z25852												
+												O2a2b1a1a1a2a	FGC23471^^/Y8389^^/Z25851^^											
+													O2a2b1a1a1a2a1	F666, F692, F693, F695										
+														O2a2b1a1a1a2a1a	F310, CTS4281, CTS10273, CTS12784^^									
+															O2a2b1a1a1a2a1a1	F402, CTS3061, F624, Y8387, Y9146								
+																O2a2b1a1a1a2a1a1a	F1531, F2781							
+											O2a2b1a1a1a3	F14249^^												
+												O2a2b1a1a1a3a	Z25853											
+													O2a2b1a1a1a3a1	CTS4789, CTS5063, CTS7418										
+														O2a2b1a1a1a3a1a	CTS5492, CTS8299, CTS12655									
+															O2a2b1a1a1a3a1a1	CTS6987, Z25903, Z25905								
+																O2a2b1a1a1a3a1a1a	Z25902							
+																	O2a2b1a1a1a3a1a1a1	Z42620						
+															O2a2b1a1a1a3a1a2	F20963, Z44926, Z44927								
+											O2a2b1a1a1a4	F14494/Z25921												
+												O2a2b1a1a1a4a	CTS4658, CTS1642, CTS9332											
+													O2a2b1a1a1a4a1	CTS5308										
+													O2a2b1a1a1a4a2	Z25928, Z25929, Z25931										
+														O2a2b1a1a1a4a2a	Z25930									
+															O2a2b1a1a1a4a2a1	SK1730/Z25982, Z25975, Z25981, Z25983, Z25984, Z25985, Z26000								
+																O2a2b1a1a1a4a2a1a	Z26030							
+																	O2a2b1a1a1a4a2a1a1	Z26031						
+																O2a2b1a1a1a4a2a1b	Z26010, Z26012, Z26013, Z26014							
+															O2a2b1a1a1a4a2a2	A9462, A9461, A9463, A9464, A9465, A9466, A9467, A9468								
+															O2a2b1a1a1a4a2a3	Z39704								
+																O2a2b1a1a1a4a2a3a	B456, Z39703, Z39705, Z39708 							
+																	O2a2b1a1a1a4a2a3a1	Z39706, Z39707						
+											O2a2b1a1a1a5	F995, F1850												
+												O2a2b1a1a1a5a	F2422, F3126											
+										O2a2b1a1a1b	CTS7634, F3599^^, F14686^^/Z25799^^													
+											O2a2b1a1a1b1	F574, F2631, F2845, Y16476, Y16478												
+												O2a2b1a1a1b1a	F474, F869, F3212											
+													O2a2b1a1a1b1a1	F317, F375, F1401, F1707, F1870, F2000, F2188, F2494, F3431, F3455, Y16475, Y16479, Y16696										
+														O2a2b1a1a1b1a1a	F3039									
+														O2a2b1a1a1b1a1b	Y29861, Y30150									
+											O2a2b1a1a1b2	CTS5488, PH3164, PH3555, Z39594												
+										O2a2b1a1a1c	CTS10738/M1707, CTS1017/M1532, E552/F14689, M1543, M1694, M1726													
+											O2a2b1a1a1c1	CTS7316												
+												O2a2b1a1a1c1a	M1732											
+													O2a2b1a1a1c1a1	CTS9678, CTS10804/M1708, E261/M1518, E345/M1615, E370/M1668, M1540, M1541, M1575, M1650, M1698, M1701, Z25850										
+														O2a2b1a1a1c1a1a	CTS8848/M1672, CTS11844, E264/M1528, E361/M1646, E543^^/M1727^^, M1586, M1624, M1722									
+															O2a2b1a1a1c1a1a1	Z39663, Z39664								
+															O2a2b1a1a1c1a1a2	M1513, M1604, M1608								
+																O2a2b1a1a1c1a1a2a	M1557, M1593, M1602, M1617, M1629, M1637, M1683, M1688, M1719, Z44923, Z44924, Z44925							
+												O2a2b1a1a1c1b	A9457, A9458, F16367, F24592, Z44919, Z44921											
+													O2a2b1a1a1c1b1	F17158, Z44918, Z44922										
+										O2a2b1a1a1d	YP4864, YP4865, Z44052, Z44053, Z44054, Z44055, Z44056, Z44057, Z44058, Z44059, Z44060, Z44061, Z44062, Z44063, Z44064, Z44065, Z44066, Z44067													
+											O2a2b1a1a1d1	Z44068, Z44069, Z44070												
+												O2a2b1a1a1d1a	F5524/SK1746											
+													O2a2b1a1a1d1a1	F5525/SK1748										
+											O2a2b1a1a1d2	Z44073, Z44074, Z44076, Z44078, Z44080, Z44083, Z44084, Z44088												
+												O2a2b1a1a1d2a	Z44071, Z44072, Z44075, Z44077, Z44079, Z44081, Z44082, Z44085, Z44086, Z44087, Z44089, Z44090											
+										O2a2b1a1a1e	Z44091													
+											O2a2b1a1a1e1	Z44092, Z44093, Z44094												
+											O2a2b1a1a1e2	SK1740, Y137616, Y137628^^												
+												O2a2b1a1a1e2a	Y137505, Y137507, Y137508											
+													O2a2b1a1a1e2a1	Y137559, Y137532^^, Y137578, Y137584, Y137618										
+										O2a2b1a1a1f	A7011.2, Y77195.2, Z7771.2													
+										O2a2b1a1a1g	MF2689, MF4645, MF4820, MF5111													
+										O2a2b1a1a1h	Y138333, Y138344, Y138362													
+								O2a2b1a1b	CTS4960, SK1717, SK1720, SK1721															
+							O2a2b1a2	F122, CTS9751, F667^^, FGC16817/F6347/Y7101, FGC16824^^/F6403^^/Y7103^^																
+								O2a2b1a2a	F114, CTS7655, F274/Page125, F403, F430, F444, F499/Y19, F593, F701															
+									O2a2b1a2a1	F79, F314, F372, F629														
+										O2a2b1a2a1a	F46/Y15, CTS2643, CTS11192, CTS11459, F174, F323/Y17, F353, F388, F442, F502, F507/Y18, F532, F2039													
+											O2a2b1a2a1a1	FGC16847/Z26091												
+												O2a2b1a2a1a1a	F14184^^/Z26093^^, F14214^^/Z26092^^											
+													O2a2b1a2a1a1a1	F48, CTS326, CTS816, CTS11177, F163, F275, F523, F575										
+														O2a2b1a2a1a1a1a	CTS1011, CTS3871									
+															O2a2b1a2a1a1a1a1	F55								
+																O2a2b1a2a1a1a1a1a	F152, CTS1098, CTS8380, CTS9172, CTS9217, F279, F595							
+																	O2a2b1a2a1a1a1a1a1	F700, CTS7300						
+																		O2a2b1a2a1a1a1a1a1a	F14475/Z26235, Y125458					
+																			O2a2b1a2a1a1a1a1a1a1	F15657				
+																				O2a2b1a2a1a1a1a1a1a1a	F2505			
+															O2a2b1a2a1a1a1a2	CTS3149, CTS5323, CTS5443, CTS12551								
+													O2a2b1a2a1a1a2	F242, CTS10286, CTS10401, CTS10888, CTS11492, F563, F634										
+														O2a2b1a2a1a1a2a	CTS6493, F209, F1116, F14645/Z26103, F14676/Z26104									
+															O2a2b1a2a1a1a2a1	F273, F14172/Y20147, F14372^^, F14444/Z26098, F14642/Z26102								
+																O2a2b1a2a1a1a2a1a	CTS7377, A5034.2/F14370.2							
+																	O2a2b1a2a1a1a2a1a1	CTS4266						
+																		O2a2b1a2a1a1a2a1a1a	Z26108, Z26109, Z26110, Z26111, Z26112, Z26113					
+																			O2a2b1a2a1a1a2a1a1a1	Y30135				
+																				O2a2b1a2a1a1a2a1a1a1a	F2173, F3387			
+																					O2a2b1a2a1a1a2a1a1a1a1	F1458, F3580, F3614		
+												O2a2b1a2a1a1b	F2887, CTS3776, CTS9862											
+													O2a2b1a2a1a1b1	CTS1346^^, FGC16858^^, FGC16862^^										
+														O2a2b1a2a1a1b1a	F3607									
+															O2a2b1a2a1a1b1a1	F3525, F1413, F2871								
+														O2a2b1a2a1a1b1b	CTS3763, FGC16857									
+															O2a2b1a2a1a1b1b1	A9472								
+															O2a2b1a2a1a1b1b2	FGC16863/Y7110								
+																O2a2b1a2a1a1b1b2a	L1360, FGC16864, FGC16866, FGC16867/Y13527, FGC16869/Y13528, FGC16948							
+																	O2a2b1a2a1a1b1b2a1	FGC16889, FGC16891, FGC16913, FGC16946						
+																O2a2b1a2a1a1b1b2b	SK1768/Y7112/Z26257, CTS2083, CTS2119, CTS7323, FGC23839/Y7114/Z26259, FGC23841/Y7116/Z26268, Y7111/Z26256, Z26266							
+																	O2a2b1a2a1a1b1b2b1	F4249, FGC1255, FGC23844, FGC23850, FGC23852, FGC23854, FGC23855, FGC23856, FGC23857, FGC23858, FGC23860, FGC23862, FGC23863, FGC23864, FGC23865, FGC23870, FGC23871, FGC23873, SK1769, SK1770, Y16776, Y16777, Y16778, Y16779						
+																		O2a2b1a2a1a1b1b2b1a	FGC23868					
+																	O2a2b1a2a1a1b1b2b2	CTS2882, CTS8942						
+																		O2a2b1a2a1a1b1b2b2a	CTS335, CTS558, CTS2080.2, CTS3249, CTS5450, CTS7951, CTS10883, CTS11454					
+											O2a2b1a2a1a2	CTS11910, F14327/Z26300, F14660/Z26329, SK1756/Z26318, Y21725, Y62628												
+												O2a2b1a2a1a2a	CTS53, CTS448, CTS610, CTS4696, CTS10819											
+													O2a2b1a2a1a2a1	CTS6373										
+														O2a2b1a2a1a2a1a	A9473									
+											O2a2b1a2a1a3	F3386												
+											O2a2b1a2a1a4	Y29828, Y30477, Y30485, Y30487, Y30489, Y30493, Y30498, ZS11791.2 												
+												O2a2b1a2a1a4a	F735, F2903, Y29836, Y30471											
+													O2a2b1a2a1a4a1	L932.2, Y30484, Y30499										
+														O2a2b1a2a1a4a1a	FGC34973, Y29829, Y29830, Y29831, Y29832, Y29833, Y29834, Y29835, Y30465, Y30466, Y30467, Y30468, Y30469, Y30470, Y30472, Y30473, Y30474, Y30475, Y30476, Y30478, Y30479, Y30480, Y30481, Y30482, Y30483, Y30486, Y30488, Y30490, Y30491, Y30492, Y30494, Y30495, Y30496, Y30497, Y30500									
+													O2a2b1a2a1a4a2	F1739										
+									O2a2b1a2a2	F743, CTS1933, CTS2260, CTS8043, CTS10219, F1725, F1835, F2599, F2600, F3451, F14400/Z26072, F14403/Z26073, F14487/Z26074, F14497/Z26075, F14503/Z26076, F14559/Z26077, F14690/Z26080, F14695/Z26081, F14714/Z26083, FGC61160, FGC61167, Y31256, Z26078														
+										O2a2b1a2a2a	CTS8481.2, CTS2205, FGC61159, FGC61164, FGC61165, FGC61215, Y31257													
+											O2a2b1a2a2a1	CTS4325, A16615, A16616, A16617, A16618, A16621, A16622, A16623, A16624, A16625, A16626, A16628, CTS496, CTS724, CTS1707, CTS2147, CTS2390, CTS4336, CTS5529, CTS7277, CTS8451, CTS9362, CTS11009												
+												O2a2b1a2a2a1a	A16629, A16630											
+												O2a2b1a2a2a1b	CTS682, CTS2272, CTS7184, CTS8951											
+										O2a2b1a2a2b	F748, F823, F1448, F2093, F2095, F2212, F2236, F2530, F2795, F2974, F3279, F3383, F3440, F3505, F3579													
+											O2a2b1a2a2b1	F1448, F16920, F17843												
+												O2a2b1a2a2b1a	F728, F1060, F2018, F2326											
+					O2a2b2	AM01822/F3223, AM01747/F1672, AM01749/F1693, AM01770/F2029, AM01776/F2083, AM01777/F2139, AM01788/F2469, AM01800/F2683, AM01823/CTS1366/F3237, AM01828/N6, F996, F1481, F1598/S3543																		
+						O2a2b2a	AM01856/F871																	
+							O2a2b2a1	N7, F2472, F4079, F4286, F4328, F4329, F4333, Z25701, Z25708, Z25713, Z25716, Z25720, Z25721, Z25728, Z25730, Z25737, Z44816																
+								O2a2b2a1a	F4110, F4144, CTS12480, F4215, F20220, F20394, F24749, Z44734, Z44735, Z44736, Z44737, Z44738, Z44739															
+									O2a2b2a1a1	F4068, F4139, F4159, F4190, F4202, F4241, F4276, F4293, F4332, F4335														
+									O2a2b2a1a2	SK1780, SK1781														
+								O2a2b2a1b	F4124, SK1778/Z25746, Z25747, Z25748, Z25749, Z25750, Z25752, Z25754, Z25755, Z25756, Z25757, Z25758, Z25759, Z25760, Z25761, Z25762, Z25763, Z25764, Z25765, Z25767															
+									O2a2b2a1b1	IMS-JST008425p6, A16609, A16610, F24792, F26088, FGC14331.2/ZS4034.2, FGC28699, SK1777, Z8263, Z44740, Z44741, Z44742, Z44743, Z44745, Z44746, Z44747, Z44748, Z44749, Z44750, Z44751, Z44752, Z44753, Z44754, Z44755, Z44756, Z44757, Z44758, Z44759, Z44760, Z44761, Z44762, Z44763, Z44764 														
+									O2a2b2a1b2	BY15188, F14875, F15739, F15692, F15973, F16170, F17339, F18455, F18521, F18757, F19055, F20227, F20235, F20251, F20767, F21091, F21275, F22909, F23173, F23473, F23524, F23679, F24517, F24605, F25036, F25041, F25079, F25381, F25411, F25440, F25789, F25924, F26193, F26484, F26752, Z44765, Z44766, Z44767, Z44768, Z44769, Z44770, Z44771, Z44772, Z44773, Z44774, Z44775, Z44776, Z44777, Z44778, Z44779, Z44780, Z44781, Z44782, Z44783, Z44784, Z44785, Z44786, Z44787  														
+										O2a2b2a1b2a	F16411, F17835, F19270, F19578, F22244, F22838, F23276, F23329, F24971, Z44792													
+							O2a2b2a2	AM01845/F706, AM01755, AM01758/F1903, AM01768, AM01780, AM01790/F2486, AM01791, AM01792, AM01799/F2654, AM01801, AM01804, AM01814/F3069, AM01842, AM01857, F1645, F16175, Z44817																
+								O2a2b2a2a	F717, F919, F976, F999, F1010, F1375, F1412, F1884, F1889, F2132, F2511, F2558, F2724, F2929, F3066, F3095, F3230, F3473, F3820, SK1782, SK1784 															
+									O2a2b2a2a1	F3612, F3819 														
+									O2a2b2a2a2	SK1783														
+								O2a2b2a2b	AM01847/B451, AM01750, AM01759, AM01760, AM01761/SK1787, AM01762, AM01763, AM01771, AM01775, AM01778, AM01781/S18967/SK1786, AM01785, AM01786, AM01787, AM01794, AM01798/SK1788, AM01802, AM01805, AM01806, AM01812, AM01813, AM01815, AM01818, AM01821, AM01824, AM01827, AM01835, AM01838, AM01839, AM01844, AM01855, AM01859, AM01860, F15980, F16102, F16868, F17803 															
+									O2a2b2a2b1	A17418, A17419, A17420, A17422, A17424, A17425, A17426, A17427, A17428, A17429, A17430, A17431, A17432, A17433, A17434, A17436, A17437, A17438, A17439, A17441, A17442, A17443, A17444, A17445, A17446, A17447, A17448, A17449, A17450, A17451, YP6194														
+									O2a2b2a2b2	AM01756, AM01757, AM01779, AM01803, AM01810, AM01826, AM01834, AM01861, F16663, F16771, F16783  														
+										O2a2b2a2b2a	B450, AM00474/SK1791, AM00475/SK1792, AM00476, F16769 													
+										O2a2b2a2b2b	AM00472/B452, AM00463, AM00464, AM00465, AM00466, AM00467, AM00468, AM00469, AM00470, AM00471, F16088, F16616, F16997, F17764, F26682													
+											O2a2b2a2b2b1	F18942, F21615, F25531 												
+										O2a2b2a2b2c	A16427, A16428, A16429, A16430, A16431, A16432													
+						O2a2b2b	A16433, A16434, A16435, A16437																	
+							O2a2b2b1	A16438, SK1773																
+								O2a2b2b1a	SK1775, SK1776															
+									O2a2b2b1a1	SK1774														
+								O2a2b2b1b	A16440, A16442, A16443, A16444, A16445															
+			O2a3~	M300																				
+			O2a4~	M333																				
+		O2b	F742, CTS1754/F4354, CTS5152, CTS6677, F1451, F1986, F2240, F4161, F4234																					
+			O2b1	F1150, F1578, F1886, F4081, F4191, F4214, F4236, PF4440																				
+				O2b1a	F837, F1770, F2244, F2247, F3338 																			
+					O2b1a1	CTS4452																		
+						O2b1a1a	Y173835																	
+							O2b1a1a1	CTS6801, Y173834																
+								O2b1a1a1a	CTS798, MF14883^^															
+									O2b1a1a1a1	F1025														
+								O2b1a1a1b	MF14654															
+									O2b1a1a1b1	BY180079^^														
+							O2b1a1a2	FGC62833																
+					O2b1a2	BY37723																		
+				O2b1b	BY56049, BY62667, BY70486, BY93457, BY97357																			
+			O2b2	F1055, F1238, F2051, F2944, F4098, F4178, F4179, F4194, F4238, F4245, F4279 																				
+				O2b2a	F3021, F4050, F4061, F4323

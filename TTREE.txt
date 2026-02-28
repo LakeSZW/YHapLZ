@@ -1,0 +1,84 @@
+T	M184/Page34/USP9Y+3178, CTS150, CTS482/PF5596, CTS493/PF5597, CTS549/L1322/PF5598, CTS573, CTS3585/PF5618, CTS3837, CTS4014, CTS4201/PF5621, CTS4652/PF5547, CTS5035, CTS5268/PF7471, CTS5336/PF5626, CTS6045/PF5629, CTS6275/PF7447, CTS6887/PF5637, CTS7164, CTS7263, CTS7426, CTS7749/L810/PF5640, CTS8247, CTS8994, CTS10416/PF5655, CTS10700, CTS10879, CTS11569, CTS12657, L445, L452, L455/PF5670, L692, M193, M272/PF5667, Page129, PF5529, PF5537, PF5568, PF5587, PF5589, PF5590, PF5603, PF5607, PF5609, PF5612, PF5613, PF5657, PF5661, PF5674, PF5678, PF7460, PF7464, PF7466, PF7480																															
+	T1	L206, CTS5987, CTS6276, CTS6577, CTS6805/PF5636, CTS8004/PF5641, CTS8397/PF5646, CTS9308, CTS10278, L490, PF5602, PF5604, PF5659, PF5666, PF5673, PF7465, PF7481																														
+	T1~	CTS2336, CTS6004, CTS6214/PF5631, PF5518, PF5592, PF5664 																														
+		T1a	M70/Page46/PF5662, CTS5332.1/PF7472.1, CTS5364, CTS6375, CTS9268/PF5651, CTS11054, CTS11746,  Page78, PF5588, PF5608, PF5610, PF5660, PF7463																													
+			T1a1	L162/Page21, L454, CTS484, CTS550, CTS3271, CTS5542/PF5627, CTS5690, CTS8065/PF5642, CTS11078, CTS11556, L299/PF5675, L453/PF5617, PF5567, PF5593, PF5594, PF5658, FGC3945.2/Z526.2																												
+				T1a1a	L208/Page2, CTS931, CTS1818, CTS2611, CTS4085/PF5620, CTS4916, CTS6000/PF7446, CTS7169/PF7448, CTS9163, CTS9506/PF7450, L905																											
+					T1a1a1	CTS11451																										
+						T1a1a1a	PF7455																									
+							T1a1a1a1	Y12643																								
+								T1a1a1a1a	Y12641																							
+									T1a1a1a1a1	Y15122																						
+								T1a1a1a1b	PF7433																							
+									T1a1a1a1b1	PF7445																						
+										T1a1a1a1b1a	PF7444, PF7453, PF7457, PF7458																					
+						T1a1a1b	FGC3995/Y4119																									
+							T1a1a1b1	Y16244																								
+								T1a1a1b1a	FGC40894/Y18472																							
+									T1a1a1b1a1	Y14121																						
+							T1a1a1b2	CTS2214																								
+								T1a1a1b2a	Y15127																							
+									T1a1a1b2a1	Y15711																						
+										T1a1a1b2a1a	Y15709																					
+										T1a1a1b2a1b	FGC41002/Y19196																					
+									T1a1a1b2a2	Y3781																						
+										T1a1a1b2a2a	Y3824																					
+											T1a1a1b2a2a1	Y3782																				
+												T1a1a1b2a2a1a	Y3836																			
+											T1a1a1b2a2a2	Y9102																				
+												T1a1a1b2a2a2a	Y16247																			
+												T1a1a1b2a2a2b	Y9104																			
+													T1a1a1b2a2a2b1	Y16241																		
+														T1a1a1b2a2a2b1a	Y16240																	
+													T1a1a1b2a2a2b2	FGC40425/Y19159																		
+														T1a1a1b2a2a2b2a	FGC40529/Y19161 																	
+								T1a1a1b2b	Z709, CTS4647																							
+									T1a1a1b2b1	Y9109																						
+										T1a1a1b2b1a	Y18004																					
+											T1a1a1b2b1a1	Y18003																				
+									T1a1a1b2b2	FGC3988/Z710, CTS8512, FGC3993/Z714, Z713																						
+										T1a1a1b2b2a	Y6409																					
+										T1a1a1b2b2b	CTS660/L906																					
+											T1a1a1b2b2b1	CTS8603																				
+												T1a1a1b2b2b1a	P77, CTS2860, CTS7225/L907, CTS11968																			
+													T1a1a1b2b2b1a1	CTS6174																		
+														T1a1a1b2b2b1a1a	CTS6507																	
+															T1a1a1b2b2b1a1a1	CTS9882																
+																T1a1a1b2b2b1a1a1a	Y15648															
+																	T1a1a1b2b2b1a1a1a1	FGC40667/Y19381														
+																T1a1a1b2b2b1a1a1b	 FGC4018/Y4981 															
+																	T1a1a1b2b2b1a1a1b1	Y16136														
+																	T1a1a1b2b2b1a1a1b2	FGC4040/SK1718/Y5675														
+																		T1a1a1b2b2b1a1a1b2a	FGC4065/Y5685 													
+																			T1a1a1b2b2b1a1a1b2a1	FGC4016/Y8852												
+																T1a1a1b2b2b1a1a1c	CTS6901															
+															T1a1a1b2b2b1a1a2	CTS6280																
+															T1a1a1b2b2b1a1a3	Y16021																
+															T1a1a1b2b2b1a1a4	Y11696																
+						T1a1a1c~	P321																									
+							T1a1a1c1~	P317																								
+					T1a1a2	Y16897																										
+						T1a1a2a	Z19963																									
+			T1a2	L131, CTS2157																												
+			T1a2a~	CTS2201, CTS2293, CTS4806, CTS7239, CTS8309, CTS8438, CTS9429, CTS9794, CTS11227, CTS12018, CTS13009.1, S11611, S11658, S12150, S15560, S16112, S17330, S22136/SK1475																												
+				T1a2a	PH141/Y13244 																											
+					T1a2a1	P322, P328																										
+				T1a2b	L446, CTS1482, CTS2161, CTS2880, CTS6788, CTS6930, CTS11660, CTS11796, CTS12108, S16483, S23032																											
+					T1a2b1	CTS933, CTS6071, CTS10803, CTS12204																										
+						T1a2b1a	CTS3767, CTS11984, CTS54, CTS1774, CTS6312, CTS6769, CTS7303, CTS8618, CTS8625, CTS8855, CTS9603, CTS11753, PH388, SK1478																									
+							T1a2b1a1	CTS8862, CTS8489, CTS9984, CTS10538																								
+								T1a2b1a1a	Y17493																							
+					T1a2b2	FGC23010/Y7381																										
+						T1a2b2a	FGC23024/Y7438 																									
+			T1a3	FGC1350/Y11151																												
+				T1a3a	Y11675/Z9798 																											
+				T1a3b	FGC1340/Y8614																											
+					T1a3b1	L1255																										
+						T1a3b1a	FGC1408/Y9221																									
+					T1a3b2	Y13280																										
+						T1a3b2a	Y13698																									
+							T1a3b2a1	SK1474/Y13718																								
+								T1a3b2a1a	FGC41095/Y19167 																							
+								T1a3b2a1b	Y13293																							
+									T1a3b2a1b1	Y13279																						
+	T2	PH110, PH196, PH478, PH526, PH550, PH768, PH933, PH1092, PH1106, PH1172, PH1268, PH1294, PH1343, PH1378, PH1434, PH1457, PH1546, PH1579, PH1583, PH1633, PH1691, PH1841, PH1867, PH1883, PH2017, PH2156, PH2279, PH2292, PH2328, PH2855, PH2861, PH2900, PH2933, PH2990, PH3010, PH3131, PH3150, PH3341, PH3399, PH3422, PH3474, PH3561, PH3721, PH3842, PH3862, PH3868, PH3922, PH3943, PH3996, PH4121, PH4216, PH4431, PH4591, PH4676, PH4746, PH4802, PH4834, PH4842, PH4892, PH4935, PH5136, PH5171, PH5181, PH5212, PH5256, PH5433																														

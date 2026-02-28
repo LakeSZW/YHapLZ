@@ -1,0 +1,18 @@
+K  	M9/PF5506																								
+K~	P128/PF5504, P131/PF5493, P132/PF5480																								
+	LT or K1	L298/P326, etc																							
+		L or K1a  	M20/PF5570																						
+		T or K1b  	M184/Page34/USP9Y+3178, etc.																						
+	K2  	M526/PF5979 		<--This was previously classified as K(xLT), etc.																					
+		NO or K2a 	F549/M2335/S22380/V4208																						
+			NO1 or K2a1	M214/Page39 etc.																					
+				N or K2a1a	M231/Page91 etc.																				
+				O or K2a1b 	M175	 																			
+		K2b 	M1221/P331/PF5911																						
+			K2b1	P399, P397^^, PR2099/Y25867, Z31091, Z31092, Z31109																					
+				S or K2b1a	B254, Z33335																				
+				M or K2b1b	P256, etc																				
+			P or K2b2	P295/PF5866/S8, etc																					
+		K2c	P261, P263																						
+		K2d	P402, P403																						
+		K2e~	M147		 	 																			
