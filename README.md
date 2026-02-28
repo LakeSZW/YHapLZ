@@ -42,7 +42,7 @@ In our validation with 558 Tibetan samples (20,279 Y-SNPs from SNP array):
 ### Download
 
 ```bash
-git clone https://github.com/[username]/YHapLZ.git
+git clone https://github.com/LakeSZW/YHapLZ.git
 cd YHapLZ
 ```
 
@@ -274,3 +274,4 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) 
 - 1000 Genomes Project for validation data
 - Poznik et al. (2016) for gold standard haplogroup assignments
 - Chen et al. (2021) for Y-LineageTracker comparison data
+
